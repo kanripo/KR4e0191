@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 皇甫少玄集
-#+DATE: 2020-03-31 11:37:55.462341
+#+DATE: 2020-03-31 11:37:55.705535
 #+PROPERTY: ID KR4e0191
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR4e0191_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -51,7 +51,7 @@
 <pb:KR4e0191_WYG_009-3a>¶
 我歌砥柱落月黒古原風來慘荆棘天眷我明在公等¶
 太陽不遣遭薄蝕時來仗義豈公意十五年前涕沾臆¶
-彭公已去獨公在莫因坎𡒄凋顔色安得我公常執政¶
+彭公已去獨公在莫因坎壈凋顔色安得我公常執政¶
 天下不復憂社稷¶
 ¶
 　　長安官舍對新月次韻荅宜俯¶

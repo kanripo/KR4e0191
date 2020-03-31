@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 皇甫少玄集
-#+DATE: 2020-03-31 11:37:55.453215
+#+DATE: 2020-03-31 11:37:55.699274
 #+PROPERTY: ID KR4e0191
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR4e0191_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -211,7 +211,7 @@
 ¶
 　　赤嶠倦征軺滄江遂還策調笑掩竹書行吟事泉石芊¶
 眠東溪樹迤邐南城陌榛蕪獨懷往堂構仍慨昔不見¶
-禾&KR0112;秋但逢麏兎迹沼近伍胥臺市逺梅生宅遹觀經¶
+禾黍秋但逢麏兎迹沼近伍胥臺市逺梅生宅遹觀經¶
 始期歲月殊復易焚枯進深酌烟華靄將夕㩦手遡歸¶
 <pb:KR4e0191_WYG_008-9a>¶
 雲惆悵平津客¶
